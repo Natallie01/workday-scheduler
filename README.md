@@ -3,7 +3,7 @@
 <img src="./assets/images/mockupwd.gif" width="600"/>
 
 # Link to Published URL
-
+https://natallie01.github.io/workday-scheduler/
  
 # Purpose 
 * As an employee with a busy schedule I want to add important events to a daily planner so that I can manage my time effectively
